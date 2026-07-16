@@ -14,6 +14,6 @@ git clone https://github.com/Sangharsha82/expense-tracker
 3. Click **delete** to remove expense.
 
 ## Tech Stack 
-- Html  
-- css  
-- javascript  
+-Html  
+-css  
+-javascript  
